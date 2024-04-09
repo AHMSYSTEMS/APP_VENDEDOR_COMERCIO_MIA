@@ -1,4 +1,4 @@
-# sixvalley_vendor_app
+# flutter_Comercio Eletronico Mia APP VENDEDOR
 
 A new Flutter application.
 
